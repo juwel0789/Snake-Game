@@ -98,7 +98,7 @@ def start(x,y):
     gameover()
 
 
-#Food
+#food
 def food(tfood):
     x = random.randrange(-8,8,1)
     y = random.randrange(-8,8,1)
