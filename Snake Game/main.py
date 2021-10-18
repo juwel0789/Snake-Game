@@ -9,10 +9,10 @@ h = [0]
 a = [0]
 b = [0]
 
-#Food coord
+#food coord
 fcoord = [0,0,0]
 
-#Position
+#position
 pos = []
 
 
